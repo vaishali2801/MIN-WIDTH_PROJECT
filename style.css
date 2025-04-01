@@ -38,10 +38,14 @@ body{
 .j-c-c{
     justify-content: center;
 }
-
 .j-c-s-b{
-    
     justify-content: space-between;
+}
+.flex-d{
+    flex-direction: row;
+}
+.f-f-r{
+    flex-flow:row wrap;
 }
 
 /* align-items */
