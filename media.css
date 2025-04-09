@@ -60,7 +60,8 @@
     }
     .nav-sm{
         display:block;
-    }    
+    } 
+     
 }
 @media(min-width:768px)
 {
@@ -102,7 +103,10 @@
     }
     .w-70{
         width: 70%;
-    }    
+    }   
+    .d-lg-n{
+        display: none;
+    } 
 }
 @media(min-width:1200px)
 {
@@ -120,5 +124,15 @@
     }
     .w-xl-5{
         width: 20%;
-    }   
+    } 
+    .w-xl-20{
+        width: 20%;
+    } 
+    .w-xl-55{
+        width: 55%;
+    }
+    .w-xl-25{
+        width: 25%;
+    }
+   
 }
